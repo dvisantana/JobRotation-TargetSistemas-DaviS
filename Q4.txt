@@ -1,0 +1,7 @@
+---  Questão 04  ---
+
+Resposta: Eles estão na mesma distancia de Ribeirao Preto.
+
+Explicação: Se eles se cruzam, para se cruzar eles obrigatoriamente estão no mesmo ponto, logo se é o mesmo ponto é a mesma distancia.
+
+--- Davi Santana ---

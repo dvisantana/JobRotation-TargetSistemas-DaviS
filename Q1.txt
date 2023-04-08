@@ -1,0 +1,5 @@
+---  Questão 01  ---
+
+Resultado = '91'
+
+--- Davi Santana ---

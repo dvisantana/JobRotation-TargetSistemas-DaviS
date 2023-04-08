@@ -1,0 +1,1 @@
+Olá! a linguagem escolhida para a resolução de questões foi a linguagem 'C'.
